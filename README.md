@@ -14,7 +14,6 @@
 
 
 ## Results
-Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
 
 I selected the Airbnb dataset (2008 to 2015) for this project. 
 Visualizations created for the Airbnb dataset of 2008 to 2015:
